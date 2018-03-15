@@ -84,25 +84,16 @@ nav a:active {
     width: 100%;
     overflow: hidden;
     background-color: red;
-    display: flex;
-    flex-direction: row;
-}
-
-#section2 .flex {
-    width: 40vw;
-    flex-direction: column;
-    top: 30vh;
-    flex: 1;
 }
 
 #section2 h2 {
     position: relative;
-    margin: 0;
 }
 
 #section2 p {
-    width: 30vh;
-    padding-left: 10vh;
+    width: 30vw;
+    padding: 2%;
+    margin-left: 10vw;
 }
 
 #section3 {
