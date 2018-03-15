@@ -3,12 +3,13 @@ body {
 }
 
 h1 {
-    font-size: 8vh;
+    font-size: 6vh;
     font-weight: 900;
     text-align: center;
     margin: auto;
     text-transform: uppercase;
     padding-top: 10vh;
+    color: white;
 }
 
 h2 {
@@ -81,8 +82,11 @@ nav a:active {
 .flexheadercontent {
     display: flex;
     flex-direction: column;
-    width: 40vh;
-    margin: auto;
+    width: 20%;
+    align-items:center;
+    position: absolute;
+    right: 26%;
+    bottom: 32%;
 }
 
 .button {
