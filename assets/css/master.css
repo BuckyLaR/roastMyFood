@@ -53,6 +53,11 @@ nav a:active {
     color: red;
 }
 
+#about{
+  display: flex;
+  
+}
+
 
 .section1{
   display: block;

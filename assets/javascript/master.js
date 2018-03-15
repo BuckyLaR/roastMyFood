@@ -5,7 +5,7 @@ function front()
 }
 function about()
 {
-    var elmnt = document.getElementById("section2");
+    var elmnt = document.getElementById("about");
     elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
 }
 
