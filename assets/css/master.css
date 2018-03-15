@@ -1,23 +1,43 @@
 .section1{
+  display: block;
   background-color: blue;
 }
 
 .section2{
+  display: block;
   background-color: hotpink;
 }
 
 .section3{
+  display: block;
   background-color: lime;
 }
+
 .billede1 {
     width: 100%;
     position: relative;
     top: auto;
     padding-right: 0
 }
+
 .aboutbox {
   display: block;
   background: red;
   width: auto;
   height: auto;
+}
+
+.aboutpic{
+  display: flex;
+  background: green;
+  width: auto;
+  height: auto;
+}
+
+h1 {
+  padding-left: 10px;
+}
+
+h4 {
+  padding-left: 10px;
 }
