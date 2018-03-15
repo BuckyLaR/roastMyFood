@@ -90,10 +90,12 @@ nav a:active {
   height: auto;
 }
 
-h1 {
+h2 {
   padding-left: 10px;
+  color: pink;
 }
 
-h4 {
+p {
   padding-left: 10px;
+  color: pink;
 }
