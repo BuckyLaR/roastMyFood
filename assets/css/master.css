@@ -10,6 +10,11 @@ h1 {
     margin: auto;
 }
 
+.flex {
+    display: flex;
+}
+
+
 nav {
     margin-top: 5%;
     margin-left: 5%;
@@ -108,5 +113,12 @@ p {
     height: 100vh;
     width: 100%;
     overflow: hidden;
-    color: red;
+    background-color: red;
+}
+
+#section3 {
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+    background-color: blue;
 }
