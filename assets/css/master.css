@@ -9,3 +9,9 @@
 .section3{
   background-color: lime;
 }
+.billede1 {
+    width: 100%;
+    position: relative;
+    top: auto;
+    padding-right: 0
+}
