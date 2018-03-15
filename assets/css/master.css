@@ -55,7 +55,7 @@ nav a:active {
 
 #about{
   display: flex;
-  
+
 }
 
 
@@ -77,8 +77,9 @@ nav a:active {
 .billede1 {
     width: 100%;
     position: absolute;
+    max-height: 100vh;
     top: auto;
-    padding-right: 0
+    padding-right: 0;
 }
 
 .aboutbox {
