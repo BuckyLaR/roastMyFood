@@ -123,6 +123,36 @@ nav a:active {
     z-index: 2;
 }
 
+.scialMedia {
+  margin: 5px;
+  
+}
+
+#face {
+  height: 3%;
+  width: 3%;
+}
+
+#insta {
+  height: 3%;
+  width: 3%;
+}
+
+#pin {
+  height: 3%;
+  width: 3%;
+}
+
+#snap {
+  height: 3%;
+  width: 3%;
+}
+
+#you {
+  height: 3%;
+  width: 3%;
+}
+
 #section2 {
     height: 100vh;
     width: 100%;
