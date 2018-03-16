@@ -20,6 +20,7 @@ h2 {
     margin: auto;
     text-transform: uppercase;
     padding-top: 5vh;
+    color: #292929;
     font-family: 'Shrikhand', cursive;
 }
 
@@ -62,6 +63,7 @@ nav li {
     padding-right: 1%;
 }
 
+
 nav li:last-child {
     padding-right: 0;
 }
@@ -74,9 +76,6 @@ nav a:active {
     color: #396293;
 }
 
-#logo {
-  width: 10px;
-}
 
 .square {
   position: absolute;
@@ -101,8 +100,8 @@ nav a:active {
 }
 
 #logo {
-  height: 30%;
-  width: 30%;
+  height: 5%;
+  width: 5%;
 }
 
 .header_picture {
