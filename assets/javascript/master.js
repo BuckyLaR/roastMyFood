@@ -12,3 +12,4 @@ function section3()
 {
     var elmnt = document.getElementById("section3");
     elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+}
