@@ -67,11 +67,11 @@ nav li:last-child {
 }
 
 nav a:hover {
-    color: blue;
+    color: #87a8d0;
 }
 
 nav a:active {
-    color: gold;
+    color: #396293;
 }
 
 .square {
