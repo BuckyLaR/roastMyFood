@@ -74,6 +74,11 @@ nav a:active {
     color: gold;
 }
 
+#logo {
+  position: absolute;
+  left: 25%;
+}
+
 .square {
   position: absolute;
   width: 100%;
@@ -133,7 +138,9 @@ nav a:active {
 
 .button:hover {
   opacity: 0.5;
-
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 footer {
