@@ -5,11 +5,13 @@ body {
 h1 {
     font-size: 6vh;
     text-align: center;
-    margin: auto;
     text-transform: uppercase;
-    padding-top: 10vh;
     color: white;
     font-family: 'Shrikhand', cursive;
+    width: 55vh;
+    position: absolute;
+    margin-top: -40px;
+    z-index: 2;
 }
 
 h2 {
@@ -20,6 +22,7 @@ h2 {
     padding-top: 5vh;
     font-family: 'Shrikhand', cursive;
 }
+
 
 .flex {
     display: flex;
@@ -82,11 +85,17 @@ nav a:active {
     background-color: #8fbbd7;
 }
 
+#section1 h2 {
+    z-index: 2;
+}
+
 .header_picture {
-    width: 100%;
+    width: 1700px;
     height: 112vh;
     position: absolute;
-    z-index: 1
+    z-index: 1;
+
+
 }
 
 .flexheadercontent {
@@ -109,6 +118,7 @@ nav a:active {
     font-size: 16px;
     width: 30vh;
     cursor: pointer;
+    z-index: 2;
 }
 
 #section2 {
