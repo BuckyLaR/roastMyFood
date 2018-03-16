@@ -101,6 +101,11 @@ nav a:active {
     z-index: 2;
 }
 
+#logo {
+  height: 30%;
+  width: 30%;
+}
+
 .header_picture {
     width: 1400px;
     height: 112vh;
