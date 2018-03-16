@@ -12,10 +12,3 @@ function section3()
 {
     var elmnt = document.getElementById("section3");
     elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
-}
-
-function section4()
-{
-    var elmnt = document.getElementById("section4");
-    elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
-}
