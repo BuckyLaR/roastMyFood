@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-    
+
 }
 
 .flex {
@@ -131,35 +131,44 @@ nav a:active {
 
 }
 
+footer {
+    font-size: 12px;
+    color: #ffffff;
+    background-color: #292929;
+    width: 100%;
+    margin: 0;
+    height: 5vh;
+}
 
-.scialMedia {
-  margin: 5px;
-
+.socialMedia {
+    text-align: center;
+    top: 2px;
+    bottom: 2px;
 }
 
 #face {
-  height: 3%;
-  width: 3%;
+  height: 1%;
+  width: 1%;
 }
 
 #insta {
-  height: 3%;
-  width: 3%;
+  height: 1%;
+  width: 1%;
 }
 
 #pin {
-  height: 3%;
-  width: 3%;
+  height: 1%;
+  width: 1%;
 }
 
 #snap {
-  height: 3%;
-  width: 3%;
+  height: 1%;
+  width: 1%;
 }
 
 #you {
-  height: 3%;
-  width: 3%;
+  height: 1%;
+  width: 1%;
 }
 
 #section2 {
