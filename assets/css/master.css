@@ -104,6 +104,10 @@ nav a:active {
   width: 60px;
 }
 
+#appLogo {
+  margin: 10px;
+}
+
 .header_picture {
     width: 1400px;
     height: 112vh;
@@ -120,7 +124,7 @@ nav a:active {
     align-items:center;
     position: absolute;
     right: 26%;
-    bottom: 40%;
+    bottom: 32%;
 }
 
 .button {
