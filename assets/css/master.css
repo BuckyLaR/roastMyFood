@@ -23,6 +23,9 @@ h2 {
     font-family: 'Shrikhand', cursive;
 }
 
+p {
+    
+}
 
 .flex {
     display: flex;
@@ -127,6 +130,7 @@ nav a:active {
     font-family: 'Shrikhand', cursive;
 
 }
+
 
 .scialMedia {
   margin: 5px;
