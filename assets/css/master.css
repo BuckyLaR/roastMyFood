@@ -74,9 +74,6 @@ nav a:active {
     color: #396293;
 }
 
-#logo {
-  width: 10px;
-}
 
 .square {
   position: absolute;
@@ -101,8 +98,7 @@ nav a:active {
 }
 
 #logo {
-  height: 30%;
-  width: 30%;
+  height: 60px;
 }
 
 .header_picture {
