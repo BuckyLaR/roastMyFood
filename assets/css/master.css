@@ -100,8 +100,12 @@ nav a:active {
 }
 
 #logo {
+<<<<<<< HEAD
   height: 5%;
   width: 5%;
+=======
+  height: 60px;
+>>>>>>> 990189258a93435680267c8d08b091bfbdd45c54
 }
 
 .header_picture {
@@ -155,10 +159,19 @@ footer {
     height: 5vh;
 }
 
+footer p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 10px;
+    margin: auto;
+
+}
 .socialMedia {
     text-align: center;
-    top: 2px;
+    padding-top: 7px;
     bottom: 2px;
+    margin: auto;
+
 }
 
 #face {
